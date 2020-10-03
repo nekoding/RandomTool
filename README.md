@@ -2,7 +2,7 @@
 
 Just make random stuff with programming language.
 
-# Contributor
+## Contributor
 <!-- readme: contributors -start --> 
 <table>
 <tr>
