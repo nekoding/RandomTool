@@ -1,6 +1,6 @@
 # Description
 
-Just make random stuff with programming language.
+Make random stuff with programming language.
 
 ## Contributor
 <!-- readme: contributors -start --> 
